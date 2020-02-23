@@ -6,7 +6,7 @@
 I finished and uploaded the [HTML](https://github.com/Electrila/100-days-of-code/blob/master/Tea%20Cozy/index.html) and [CSS](https://github.com/Electrila/100-days-of-code/blob/master/Tea%20Cozy/style.css) for a recreation of the homepage for a fictional company called Tea Cozy :tea: and everything looks pretty close to the [design spec](https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-tea-cozy-redline.jpg)! And the best part? IT'S (somewhat) FUNCTIONAL!
 <br>
 <br>
-**Thoughts**  :thought_balloon:  
+**Thoughts**  :thought_balloon:
 <br>
 Feeling pretty good about my first HTML/CSS attempt.  I've only extensively studied [Python](https://www.python.org/) up until this point and I'm enjoying checking out some new languages.
 <br>
@@ -17,7 +17,7 @@ Feeling pretty good about my first HTML/CSS attempt.  I've only extensively stud
 I didn't have time to work on any coding projects, but I grabbed a copy of [*Programming: Principles and Practice Using C++*](https://www.amazon.com/Programming-Principles-Practice-Using-C-ebook/dp/B00KPTEH8C) by the man himself, [Bjarne Stroustrup](http://www.stroustrup.com/) and got through Chapter 1: Computers, People, and Programming.
 <br>
 <br>
-**Thoughts**  :thought_balloon:  
+**Thoughts**  :thought_balloon:
 <br>
 I have done a little hands-on practice with C++ through [SoloLearn](https://www.sololearn.com/) and [Codecademy](https://www.codecademy.com/learn/learn-c-plus-plus).  After skimming through this book, I have a feeling it's going to be a great help.  C++ is the main language I'm interested in, since it [has a ton of applications](http://www.stroustrup.com/applications.html).  I'm looking forward to digging into the book a bit more.
 <br>
@@ -28,7 +28,7 @@ I have done a little hands-on practice with C++ through [SoloLearn](https://www.
 I finished the Responsive Web Design track on [freeCodeCamp](https://www.freecodecamp.org/learn) and am ready to begin the 'Projects' section tomorrow.
 <br>
 <br>
-**Thoughts**  :thought_balloon:  
+**Thoughts**  :thought_balloon:
 <br>
 I have enjoyed learning HTML and CSS elements, but am feeling a little overwhelmed by the sheer amount of customizations available within CSS.  I am looking forward to beginning the projects though and hopefully the practice will give me the opportunity to experiment with various elements.
 <br>
@@ -39,7 +39,7 @@ I have enjoyed learning HTML and CSS elements, but am feeling a little overwhelm
 I uploaded basic [HTML](https://github.com/Electrila/100-days-of-code/blob/master/Tribute%20Page/index.html) for a Tribute Page I'm doing as part of freeCodeCamp's Responsive Web Design curriculum.  I have gone beyond what the requirements call for, as I really want to see what I'm able to produce with everything I've learned so far.
 <br>
 <br>
-**Thoughts**  :thought_balloon:  
+**Thoughts**  :thought_balloon:
 <br>
 Thinking about beginning the CSS for this project is a little overwhelming.  I have a pretty good idea of what I want the final product to look like, now I just need to figure out how to translate that into working CSS.  I'm going to take a break for today, maybe read another chapter in *Programming: Principles and Practice using C++*.  I may come back to this project later if the mood strikes me.
 <br>
