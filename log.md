@@ -64,3 +64,15 @@ I checked out computer science and programming courses on [Udemy](https://www.ud
 **Thoughts**  :thought_balloon:
 <br>
 A lot of the websites I listed offer certificates of completion for their courses, but at a cost.  There are also skill paths that include several courses with a certificate of completion at the end as well.  These could be useful to help me get into an entry-level position until I'm able to start working on a B.S. in Computer Science.  Each site offers a TON of courses, along with projects to complete that can be added to a personal portfolio.  I also think taking the C++ course as I'm reading through *Programming: Principles and Practice using C++* will be helpful.  I'm a hands-on learner so if I'm able to practice the concepts as I'm reading about them, I'll probably be more inclined to understand and remember what I'm learning.
+<br>
+<br>
+## :calendar: Day 7/100 - Monday, February 24, 2020
+**Today's Progress**
+<br>
+I began learning how to draw shapes with JavaScript through a course on [Khan Academy](https://www.khanacademy.org).  I created a [drawing](https://github.com/Electrila/100-days-of-code/blob/master/JS%20Drawings/dinner.js) of a dinner plate with steak, a baked potato with butter, and peas.  I am going to continue working through the course today and plan to upload any other projects I end up creating.
+<br>
+<br>
+**Thoughts**  :thought_balloon:
+<br>
+Drawing with code is pretty fun so far.  Although the drawing I made was created with only two or three different shapes, I had a lot of fun doing it and experimenting.  I'm looking forward to learning some more and hopefully will be able to create more complex drawings in the future and learn how to do it more efficiently.  Drawing all those peas individually was insane!
+<br>
