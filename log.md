@@ -53,3 +53,14 @@ I struggled with the CSS for my Tribute Page today.  The sheer amount of ways yo
 **Thoughts**  :thought_balloon:
 <br>
 So [MDN Web Docs](https://developer.mozilla.org/en-US/) are AMAZING.  There is a wealth of information for all kinds of languages, along with predefined tutorials for beginners.  Additionally, I am enjoying [Codewars](https://www.codewars.com/dashboard) so far.  The challenges really make you think and I love that there are no set requirements for how the challenges must be complete.  As long as you pass the tests, your code will pass, but there is allotted time to refactor your code before making your final submission, which allows you to come up with more efficient solutions once you pass the requirements.
+<br>
+<br>
+## :calendar: Day 6/100 - Sunday, February 23, 2020
+**Today's Progress**
+<br>
+I checked out computer science and programming courses on [Udemy](https://www.udemy.com/), [Coursera](https://www.coursera.org/), [Khan Academy](https://www.khanacademy.org), and [edX](https://www.edx.org/).  Utimately, I ended up signing up for four classes through edX: HTML5 & CSS Fundamentals, Advanced CSS, Programming for the Web with JavaScript, and Introduction to C++.
+<br>
+<br>
+**Thoughts**  :thought_balloon:
+<br>
+A lot of the websites I listed offer certificates of completion for their courses, but at a cost.  There are also skill paths that include several courses with a certificate of completion at the end as well.  These could be useful to help me get into an entry-level position until I'm able to start working on a B.S. in Computer Science.  Each site offers a TON of courses, along with projects to complete that can be added to a personal portfolio.  I also think taking the C++ course as I'm reading through *Programming: Principles and Practice using C++* will be helpful.  I'm a hands-on learner so if I'm able to practice the concepts as I'm reading about them, I'll probably be more inclined to understand and remember what I'm learning.
