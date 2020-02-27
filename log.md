@@ -77,13 +77,25 @@ I began learning how to draw shapes with JavaScript through a course on [Khan Ac
 Drawing with code is pretty fun so far.  Although the drawing I made was created with only two or three different shapes, I had a lot of fun doing it and experimenting.  I'm looking forward to learning some more and hopefully will be able to create more complex drawings in the future and learn how to do it more efficiently.  Drawing all those peas individually was insane!
 <br>
 <br>
-## :calendar: Day 8/100 - Tuesday, February 24, 2020
+## :calendar: Day 8/100 - Tuesday, February 25, 2020
 **Today's Progress**
 <br>
-So I didn't have access to my computer today, but I didn't let that stop me! I utilized [Codecademy's mobile app](https://play.google.com/store/apps/details?id=com.ryzac.codecademygo) to complete review and practice exercises for all the courses I have either completed or am currently enrolled in. Then I used [SoloLearn's mobile app](https://play.google.com/store/apps/details?id=com.sololearn) to complete three coding exercises in C++ and Python. I'll be finishing off my day by reading *Programming: Principles & Practice Using C++* until I fall asleep.
+So I didn't have access to my computer today, but I didn't let that stop me! I utilized [Codecademy's mobile app](https://play.google.com/store/apps/details?id=com.ryzac.codecademygo) to complete review and practice exercises for all the courses I have either completed or am currently enrolled in. Then I used [SoloLearn's mobile app](https://play.google.com/store/apps/details?id=com.sololearn) to complete [three coding exercises in C++ and Python](https://github.com/Electrila/100-days-of-code/tree/master/SoloLearn%20Challenges). I'll be finishing off my day by reading *Programming: Principles & Practice Using C++* until I fall asleep.
 <br>
 <br>
 **Thoughts**  :thought_balloon:
 <br>
-I absolutely love the fact that there are so many interactive apps and websites available with good content so I don't feel like I just mindlessly scrolled through text for an hour. I'm particularly impressed with SoloLearn's coding challenges. In addition to learning new concepts, these challenges let you actually code solutions right in the app so you don't have to forego the hands-on practice if you don't have access to a computer. I'll upload my challenges and solutions tomorrow once I'm back on the PC.
+I absolutely love the fact that there are so many interactive apps and websites available with good content so I don't feel like I just mindlessly scrolled through text for an hour. I'm particularly impressed with SoloLearn's coding challenges. In addition to learning new concepts, these challenges let you actually code solutions right in the app so you don't have to forego the hands-on practice if you don't have access to a computer.
 <br>
+<br>
+## :calendar: Day 9/100 - Wednesday, February 26, 2020
+**Today's Progress**
+<br>
+I decided to do a little Python work today and started working on a [Pokémon game](https://github.com/Electrila/100-days-of-code/blob/master/Pokemon%20Master/pokemon.py) using classes and OOP. I also made some more progress in my [edX](https://www.edx.org/) courses as well as a Python course with [DataCamp](https://www.datacamp.com/). I'm planning on adding some functionality to the game next.
+<br>
+<br>
+**Thoughts**  :thought_balloon:
+<br>
+I really like how versatile Python is. I've worked on so many projects including data analysis, machine learning, NLP, etc. It really is a fun language to work with and is quite a bit easier to understand compared to languages like C++ and Java. I definitely have the most experience with Python and although I'm not sure if I'll use it much in the profession I'm pursuing, I still really enjoy seeing what I can come up with. 
+
+
