@@ -3,7 +3,7 @@
 ## :calendar: Day 1/100 - Tuesday, February 18, 2020
 **Today's Progress**
 <br>
-I finished and uploaded the [HTML](https://github.com/Electrila/100-days-of-code/blob/master/Tea%20Cozy/index.html) and [CSS](https://github.com/Electrila/100-days-of-code/blob/master/Tea%20Cozy/style.css) for a recreation of the homepage for a fictional company called Tea Cozy :tea: and everything looks pretty close to the [design spec](https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-tea-cozy-redline.jpg)! And the best part? IT'S (somewhat) FUNCTIONAL!
+I finished and uploaded the [HTML](https://github.com/Electrila/100-days-of-code/blob/master/Tea%20Cozy/index.html) and [CSS](https://github.com/Electrila/100-days-of-code/blob/master/Tea%20Cozy/style.css) for a recreation of the homepage for a fictional company called Tea Cozy and everything looks pretty close to the [design spec](https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-tea-cozy-redline.jpg)! And the best part? IT'S (somewhat) FUNCTIONAL!
 <br>
 <br>
 **Thoughts**  :thought_balloon:
@@ -97,5 +97,14 @@ I decided to do a little Python work today and started working on a [Pokémon ga
 **Thoughts**  :thought_balloon:
 <br>
 I really like how versatile Python is. I've worked on so many projects including data analysis, machine learning, NLP, etc. It really is a fun language to work with and is quite a bit easier to understand compared to languages like C++ and Java. I definitely have the most experience with Python and although I'm not sure if I'll use it much in the profession I'm pursuing, I still really enjoy seeing what I can come up with. 
-
-
+<br>
+<br>
+## :calendar: Day 10/100 - Thursday, February 27, 2020
+**Today's Progress**
+<br>
+Everyone has off-days and today was no exception for me.  Instead of working on projects, I used my time to watch some great YouTube videos from Raymond Hettinger on the [SF Python channel](https://www.youtube.com/channel/UC51aOZF5nnderbuar5D5ifw/videos) and read a bit more in *Programming: Principles & Practice Using C++*. I also finished [DataCamp's](https://learn.datacamp.com/) [Introduction to Python](https://learn.datacamp.com/courses/intro-to-python-for-data-science) and [Intermediate Python](https://learn.datacamp.com/courses/intermediate-python) courses, so all-in-all, not a bad day.
+<br>
+<br>
+**Thoughts**  :thought_balloon:
+<br>
+Although I felt like the material in the two DataCamp courses I completed was a bit below the level of knowledge I currently have, I don't actually see it as a waste of time, or even a negative, because it means I'm **learning**. And not just learning, retaining, which is generally a huge problem for me when trying to learn anything new. I've subscribed to their site and am going to continue going through the courses to gain as much knowledge as I can. I also [posted](https://www.reddit.com/r/Python/comments/fa5z66/i_used_oop_to_start_making_a_pok%C3%A9mon_game_im/) the code I wrote yesterday for the [Pokémon game](https://github.com/Electrila/100-days-of-code/blob/master/Pokemon%20Master/pokemon.py) to [r/Python](https://www.reddit.com/r/Python/) and am blown away by how helpful and supportive the community has been. I got a lot of great tips and pointers on refactoring my code and ended up making a list of the changes I'm going to work on implementing.
