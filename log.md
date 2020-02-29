@@ -108,3 +108,14 @@ Everyone has off-days and today was no exception for me.  Instead of working on 
 **Thoughts**  :thought_balloon:
 <br>
 Although I felt like the material in the two DataCamp courses I completed was a bit below the level of knowledge I currently have, I don't actually see it as a waste of time, or even a negative, because it means I'm **learning**. And not just learning, retaining, which is generally a huge problem for me when trying to learn anything new. I've subscribed to their site and am going to continue going through the courses to gain as much knowledge as I can. I also [posted](https://www.reddit.com/r/Python/comments/fa5z66/i_used_oop_to_start_making_a_pok%C3%A9mon_game_im/) the code I wrote yesterday for the [Pokémon game](https://github.com/Electrila/100-days-of-code/blob/master/Pokemon%20Master/pokemon.py) to [r/Python](https://www.reddit.com/r/Python/) and am blown away by how helpful and supportive the community has been. I got a lot of great tips and pointers on refactoring my code and ended up making a list of the changes I'm going to work on implementing.
+<br>
+<br>
+## :calendar: Day 11/100 - Friday, February 28, 2020
+**Today's Progress**
+<br>
+I finished several of [DataCamp's](https://learn.datacamp.com/) courses on Data Visualization today: [Python Data Science Toolbox (Part 1)](https://learn.datacamp.com/courses/python-data-science-toolbox-part-1), [Python Data Science Toolbox (Part 2)](https://learn.datacamp.com/courses/python-data-science-toolbox-part-2), [Pandas Foundations](https://learn.datacamp.com/courses/pandas-foundations), and [Manipulating DataFrames with Pandas](https://learn.datacamp.com/courses/manipulating-dataframes-with-pandas). I grabbed some datasets from [Kaggle](https://www.kaggle.com/datasets) to look at and decided on using some World of Warcraft survey data to see if I could come up with some interesting correlations/visualizations. Although I only got as far as importing the .csv file into a DataFrame today, I'm planning on working on it tomorrow after I brush up on some [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/) skills.
+<br>
+<br>
+**Thoughts**  :thought_balloon:
+<br>
+Although data analysis was originally not one of the things I was too terribly interested in when I started coding, I have found that I actually enjoy it quite a bit. Some of the visualizations I've seen from people who have been doing this waaaaay longer than I have are absolutely STUNNING. I'm excited to see what I can come up with and already have some ideas of how I'm going to work with the data I downloaded.
