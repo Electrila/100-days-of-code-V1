@@ -6,6 +6,9 @@
 I finished and uploaded the [HTML](https://github.com/Electrila/100-days-of-code/blob/master/Tea%20Cozy/index.html) and [CSS](https://github.com/Electrila/100-days-of-code/blob/master/Tea%20Cozy/style.css) for a recreation of the homepage for a fictional company called Tea Cozy and everything looks pretty close to the [design spec](https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-tea-cozy-redline.jpg)! And the best part? IT'S (somewhat) FUNCTIONAL!
 <br>
 <br>
+<img src="https://github.com/Electrila/Electrila.github.io/blob/master/The%20Tea%20Cozy.JPG" />
+<br>
+<br>
 **Thoughts**  :thought_balloon:
 <br>
 Feeling pretty good about my first HTML/CSS attempt.  I've only extensively studied [Python](https://www.python.org/) up until this point and I'm enjoying checking out some new languages.
@@ -14,7 +17,10 @@ Feeling pretty good about my first HTML/CSS attempt.  I've only extensively stud
 ## :calendar: Day 2/100 - Wednesday, February 19, 2020
 **Today's Progress**
 <br>
-I didn't have time to work on any coding projects, but I grabbed a copy of [*Programming: Principles and Practice Using C++*](https://www.amazon.com/Programming-Principles-Practice-Using-C-ebook/dp/B00KPTEH8C) by the man himself, [Bjarne Stroustrup](http://www.stroustrup.com/) and got through Chapter 1: Computers, People, and Programming.
+I didn't have time to work on any coding projects, but I grabbed a copy of [*Programming: Principles and Practice Using C++*](https://www.amazon.com/Programming-Principles-Practice-Using-C-ebook/dp/B00KPTEH8C) by the man himself, [Bjarne Stroustrup](http://www.stroustrup.com/), and got through Chapter 1: Computers, People, and Programming.
+<br>
+<br>
+<img src="https://github.com/Electrila/Electrila.github.io/blob/master/Programming%20Principles%20%26%20Practice%20Using%20C%2B%2B.jpg" />
 <br>
 <br>
 **Thoughts**  :thought_balloon:
@@ -26,6 +32,9 @@ I have done a little hands-on practice with C++ through [SoloLearn](https://www.
 **Today's Progress**
 <br>
 I finished the Responsive Web Design track on [freeCodeCamp](https://www.freecodecamp.org/learn) and am ready to begin the 'Projects' section tomorrow.
+<br>
+<br>
+ <img src="https://github.com/Electrila/Electrila.github.io/blob/master/Responsive%20Web%20Design%20Progress.jpg" />
 <br>
 <br>
 **Thoughts**  :thought_balloon:
@@ -50,6 +59,9 @@ Thinking about beginning the CSS for this project is a little overwhelming.  I h
 I struggled with the CSS for my Tribute Page today.  The sheer amount of ways you can format elements is somewhat mind-boggling and it definitely is intimidating and hard to know where to start.  Instead of just getting frustrated and quitting for the day, I spent time going through [MDN Web Docs CSS tutorials](https://developer.mozilla.org/en-US/docs/Web/CSS) and browsing [Stack Overflow forums](https://stackoverflow.com).  I also did a little work on [Codecademy's CSS path](https://www.codecademy.com/learn/learn-css), completed all paths on [Grasshopper](https://learn.grasshopper.app/) (which included some CSS elements as well), did a few Python challenges on [Codewars](https://www.codewars.com/dashboard), started the Python track on [DataCamp](https://learn.datacamp.com/) to continue refining my skills, and began the Web Development 101 program on [The Odin Project](https://www.theodinproject.com/dashboard).  If I'm not making progress on projects, at least I'm keeping up with my learning!
 <br>
 <br>
+<img src="https://github.com/Electrila/Electrila.github.io/blob/master/Grasshopper%20Certificates.jpg" />
+<br>
+<br>
 **Thoughts**  :thought_balloon:
 <br>
 So [MDN Web Docs](https://developer.mozilla.org/en-US/) are AMAZING.  There is a wealth of information for all kinds of languages, along with predefined tutorials for beginners.  Additionally, I am enjoying [Codewars](https://www.codewars.com/dashboard) so far.  The challenges really make you think and I love that there are no set requirements for how the challenges must be complete.  As long as you pass the tests, your code will pass, but there is allotted time to refactor your code before making your final submission, which allows you to come up with more efficient solutions once you pass the requirements.
@@ -59,6 +71,9 @@ So [MDN Web Docs](https://developer.mozilla.org/en-US/) are AMAZING.  There is a
 **Today's Progress**
 <br>
 I checked out computer science and programming courses on [Udemy](https://www.udemy.com/), [Coursera](https://www.coursera.org/), [Khan Academy](https://www.khanacademy.org), and [edX](https://www.edx.org/).  Utimately, I ended up signing up for four classes through edX: HTML5 & CSS Fundamentals, Advanced CSS, Programming for the Web with JavaScript, and Introduction to C++.
+<br>
+<br>
+<img src="https://github.com/Electrila/Electrila.github.io/blob/master/edX%20Courses.jpg" />
 <br>
 <br>
 **Thoughts**  :thought_balloon:
@@ -72,6 +87,9 @@ A lot of the websites I listed offer certificates of completion for their course
 I began learning how to draw shapes with JavaScript through a course on [Khan Academy](https://www.khanacademy.org).  I created a [drawing](https://github.com/Electrila/100-days-of-code/blob/master/JS%20Drawings/dinner.js) of a dinner plate with steak, a baked potato with butter, and peas.  I am going to continue working through the course today and plan to upload any other projects I end up creating.
 <br>
 <br>
+<img src="https://github.com/Electrila/Electrila.github.io/blob/master/Meat%20%26%20Potatoes.JPG" />
+<br>
+<br>
 **Thoughts**  :thought_balloon:
 <br>
 Drawing with code is pretty fun so far.  Although the drawing I made was created with only two or three different shapes, I had a lot of fun doing it and experimenting.  I'm looking forward to learning some more and hopefully will be able to create more complex drawings in the future and learn how to do it more efficiently.  Drawing all those peas individually was insane!
@@ -81,6 +99,11 @@ Drawing with code is pretty fun so far.  Although the drawing I made was created
 **Today's Progress**
 <br>
 So I didn't have access to my computer today, but I didn't let that stop me! I utilized [Codecademy's mobile app](https://play.google.com/store/apps/details?id=com.ryzac.codecademygo) to complete review and practice exercises for all the courses I have either completed or am currently enrolled in. Then I used [SoloLearn's mobile app](https://play.google.com/store/apps/details?id=com.sololearn) to complete [three coding exercises in C++ and Python](https://github.com/Electrila/100-days-of-code/tree/master/SoloLearn%20Challenges). I'll be finishing off my day by reading *Programming: Principles & Practice Using C++* until I fall asleep.
+<br>
+Here's a list of all the Codecademy and SoloLearn courses I've worked on or completed so far!
+<br>
+<br>
+<img src="https://github.com/Electrila/Electrila.github.io/blob/master/Codecademy%20%26%20SoloLearn%20Courses.jpg" />
 <br>
 <br>
 **Thoughts**  :thought_balloon:
@@ -105,6 +128,11 @@ I really like how versatile Python is. I've worked on so many projects including
 Everyone has off-days and today was no exception for me.  Instead of working on projects, I used my time to watch some great YouTube videos from Raymond Hettinger on the [SF Python channel](https://www.youtube.com/channel/UC51aOZF5nnderbuar5D5ifw/videos) and read a bit more in *Programming: Principles & Practice Using C++*. I also finished [DataCamp's](https://learn.datacamp.com/) [Introduction to Python](https://learn.datacamp.com/courses/intro-to-python-for-data-science) and [Intermediate Python](https://learn.datacamp.com/courses/intermediate-python) courses, so all-in-all, not a bad day.
 <br>
 <br>
+<img src="https://github.com/Electrila/Electrila.github.io/blob/master/Introduction%20to%20Python%20Certificate.JPG" />
+<br>
+<img src="https://github.com/Electrila/Electrila.github.io/blob/master/Intermediate%20Python%20Certificate.JPG" />
+<br>
+<br>
 **Thoughts**  :thought_balloon:
 <br>
 Although I felt like the material in the two DataCamp courses I completed was a bit below the level of knowledge I currently have, I don't actually see it as a waste of time, or even a negative, because it means I'm **learning**. And not just learning, retaining, which is generally a huge problem for me when trying to learn anything new. I've subscribed to their site and am going to continue going through the courses to gain as much knowledge as I can. I also [posted](https://www.reddit.com/r/Python/comments/fa5z66/i_used_oop_to_start_making_a_pok%C3%A9mon_game_im/) the code I wrote yesterday for the [Pokémon game](https://github.com/Electrila/100-days-of-code/blob/master/Pokemon%20Master/pokemon.py) to [r/Python](https://www.reddit.com/r/Python/) and am blown away by how helpful and supportive the community has been. I got a lot of great tips and pointers on refactoring my code and ended up making a list of the changes I'm going to work on implementing.
@@ -113,7 +141,13 @@ Although I felt like the material in the two DataCamp courses I completed was a 
 ## :calendar: Day 11/100 - Friday, February 28, 2020
 **Today's Progress**
 <br>
-I finished several of [DataCamp's](https://learn.datacamp.com/) courses on Data Visualization today: [Python Data Science Toolbox (Part 1)](https://learn.datacamp.com/courses/python-data-science-toolbox-part-1), [Python Data Science Toolbox (Part 2)](https://learn.datacamp.com/courses/python-data-science-toolbox-part-2), [Pandas Foundations](https://learn.datacamp.com/courses/pandas-foundations), and [Manipulating DataFrames with Pandas](https://learn.datacamp.com/courses/manipulating-dataframes-with-pandas). I grabbed some datasets from [Kaggle](https://www.kaggle.com/datasets) to look at and decided on using some World of Warcraft survey data to see if I could come up with some interesting correlations/visualizations. Although I only got as far as importing the .csv file into a DataFrame today, I'm planning on working on it tomorrow after I brush up on some [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/) skills.
+I finished several of [DataCamp's](https://learn.datacamp.com/) courses on Data Visualization today: 
+* [Python Data Science Toolbox (Part 1)](https://learn.datacamp.com/courses/python-data-science-toolbox-part-1)<img src="https://github.com/Electrila/Electrila.github.io/blob/master/Python%20Data%20Science%20Toolbox%20(Part%201)%20Certificate.JPG" />
+* [Python Data Science Toolbox (Part 2)](https://learn.datacamp.com/courses/python-data-science-toolbox-part-2)<img src="https://github.com/Electrila/Electrila.github.io/blob/master/Python%20Data%20Science%20Toolbox%20(Part%202)%20Certificate.JPG" />
+* [Pandas Foundations](https://learn.datacamp.com/courses/pandas-foundations)<img src="https://github.com/Electrila/Electrila.github.io/blob/master/Pandas%20Foundations%20Certificate.JPG" />
+* [Manipulating DataFrames with Pandas](https://learn.datacamp.com/courses/manipulating-dataframes-with-pandas)<img src="https://github.com/Electrila/Electrila.github.io/blob/master/Manipulating%20DataFrames%20with%20Pandas%20Certificate.JPG" />
+
+I grabbed some datasets from [Kaggle](https://www.kaggle.com/datasets) to look at and decided on using some World of Warcraft survey data to see if I could come up with some interesting correlations/visualizations. Although I only got as far as importing the .csv file into a DataFrame today, I'm planning on working on it tomorrow after I brush up on some [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/) skills.
 <br>
 <br>
 **Thoughts**  :thought_balloon:
