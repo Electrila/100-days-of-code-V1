@@ -153,3 +153,25 @@ I grabbed some datasets from [Kaggle](https://www.kaggle.com/datasets) to look a
 **Thoughts**  :thought_balloon:
 <br>
 Although data analysis was originally not one of the things I was too terribly interested in when I started coding, I have found that I actually enjoy it quite a bit. Some of the visualizations I've seen from people who have been doing this waaaaay longer than I have are absolutely STUNNING. I'm excited to see what I can come up with and already have some ideas of how I'm going to work with the data I downloaded.
+<br>
+<br>
+## :calendar: Day 12/100 - Saturday, February 29, 2020
+**Today's Progress**
+<br>
+I finished [DataCamp's](https://learn.datacamp.com/)[Merging DataFrames with Pandas](https://learn.datacamp.com/courses/merging-dataframes-with-pandas) and started working on a [World of Warcraft survey dataset](https://www.kaggle.com/avenn98/world-of-warcraft-demographics). You can view the .csv file [here](https://github.com/Electrila/100-days-of-code/blob/master/World%20of%20Warcraft%20Demographics%20Analysis/WoW_Demographics.csv) and my code so far [here](https://github.com/Electrila/100-days-of-code/blob/master/World%20of%20Warcraft%20Demographics%20Analysis/wow_data_analysis.py).
+<br>
+<br>
+<img src="https://github.com/Electrila/Electrila.github.io/blob/master/Merging%20DataFrames%20with%20Pandas.JPG" />
+<br>
+<br>
+**Thoughts**  :thought_balloon:
+<br>
+Manipulating DataFrames is very much a trial and error process for me right now. I do feel like I'm starting to get the hang of it. I spent hours just transforming the data in different ways to see if I could better understand what each method or function does. I'm not 100% sure what I want to do as far as visualization, but I have a few ideas:
+* Stacked bar graph of the Class and Race columns
+* Color each bar based on the in-game class color
+* Make a pie chart showing the breakdown of the Class and Race columns
+<br>
+As far as comparison within the dataset goes, I've been trying to come up with various correlations to test, but I've been struggling to do any comparisons since the data is all strings and no numerical values. That's mainly the reason why I broke down the Class, Race, and Role columns and added their respective totals to each DataFrame, but I really don't think there's any basis for comparison between the three DataFrames. Hopefully I can come up with something tomorrow, but I'm definitely going to plot the data I have already first so I can get some practice with Matplotlib and Seaborn.
+<br>
+<br>
+<img src="https://github.com/Electrila/Electrila.github.io/blob/master/WoW%20Data%20Analysis.JPG" />
