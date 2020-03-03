@@ -171,7 +171,8 @@ Manipulating DataFrames is very much a trial and error process for me right now.
 * Color each bar based on the in-game class color
 * Make a pie chart showing the breakdown of the Class and Race columns
 <br>
+<img src="https://github.com/Electrila/Electrila.github.io/blob/master/WoW%20Data%20Analysis.JPG" />
+<br>
 As far as comparison within the dataset goes, I've been trying to come up with various correlations to test, but I've been struggling to do any comparisons since the data is all strings and no numerical values. That's mainly the reason why I broke down the Class, Race, and Role columns and added their respective totals to each DataFrame, but I really don't think there's any basis for comparison between the three DataFrames. Hopefully I can come up with something tomorrow, but I'm definitely going to plot the data I have already first so I can get some practice with Matplotlib and Seaborn.
 <br>
 <br>
-<img src="https://github.com/Electrila/Electrila.github.io/blob/master/WoW%20Data%20Analysis.JPG" />
