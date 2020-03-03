@@ -170,7 +170,55 @@ Manipulating DataFrames is very much a trial and error process for me right now.
 * Stacked bar graph of the Class and Race columns
 * Color each bar based on the in-game class color
 * Make a pie chart showing the breakdown of the Class and Race columns
+
+As far as comparison within the dataset goes, I've been trying to come up with various correlations to test, but I've been struggling to do any comparisons since the data is all strings and no numerical values. That's mainly the reason why I broke down the Class, Race, and Role columns and added their respective totals to each DataFrame, but I really don't think there's any basis for comparison between the three DataFrames. Hopefully I can come up with something tomorrow, but I'm definitely going to plot the data I have already first so I can get some practice with Matplotlib and Seaborn.
+<br>
 <br>
 <img src="https://github.com/Electrila/Electrila.github.io/blob/master/WoW%20Data%20Analysis.JPG" />
 <br>
-As far as comparison within the dataset goes, I've been trying to come up with various correlations to test, but I've been struggling to do any comparisons since the data is all strings and no numerical values. That's mainly the reason why I broke down the Class, Race, and Role columns and added their respective totals to each DataFrame, but I really don't think there's any basis for comparison between the three DataFrames. Hopefully I can come up with something tomorrow, but I'm definitely going to plot the data I have already first so I can get some practice with Matplotlib and Seaborn.
+<br>
+## :calendar: Day 13/100 - Sunday, March 01, 2020
+**Today's Progress**
+<br>
+I finished three more of [Data Camp's](https://learn.datacamp.com/) data analysis courses:
+* [Introduction to Data Science](https://learn.datacamp.com/courses/introduction-to-data-science-in-python)<img src="https://github.com/Electrila/Electrila.github.io/blob/master/Introduction%20to%20Data%20Science%20in%20Python.JPG" />
+* [Introduction to Data Visualization with Matplotlib](https://learn.datacamp.com/courses/introduction-to-data-visualization-with-matplotlib)<img src="https://github.com/Electrila/Electrila.github.io/blob/master/Introduction%20to%20Data%20Visualization%20with%20Matplotlib.JPG" />
+* [Introduction to Data Visualization with Seaborn](https://learn.datacamp.com/courses/introduction-to-data-visualization-with-seaborn)<img src="https://github.com/Electrila/Electrila.github.io/blob/master/Introduction%20to%20Data%20Visualization%20with%20Seaborn.JPG" />
+
+I used the [World of Warcraft survey data](https://github.com/Electrila/100-days-of-code/blob/master/World%20of%20Warcraft%20Demographics%20Analysis/WoW_Demographics.csv) to generate two charts using Matplotlib and Seaborn. The first chart shows a breakdown of the total characters reported by class.
+<img src="https://github.com/Electrila/Electrila.github.io/blob/master/wow_class_bar.jpeg" />
+
+The second chart shows a breakdown of the total characters reported by race.
+<img src="https://github.com/Electrila/Electrila.github.io/blob/master/wow_race_barplot.jpeg" />
+
+You can see the code for the charts [here](https://github.com/Electrila/100-days-of-code/blob/master/World%20of%20Warcraft%20Demographics%20Analysis/wow_data_analysis.py).
+<br>
+<br>
+**Thoughts**  :thought_balloon:
+<br>
+I enjoy messing around with Matplotlib and Seaborn and finding different ways to visualize data. There are a ton of ways to customize the charts and I plan on taking more advanced tutorials and reading a bit more of the documentation for each module in order to learn how to use them effectively.
+<br>
+<br>
+## :calendar: Day 14/100 - Monday, March 02, 2020
+**Today's Progress**
+<br>
+I'm starting to feel a bit sick today, so I didn't have the energy to use my brain in order to work on any coding projects. Instead, I read a little more in *Programming: Principles & Practice Using C++* and watched a few YouTube videos. I plan on doing a bit more tomorrow to make up for today if I'm feeling okay.
+<br>
+<br>
+**Thoughts**  :thought_balloon:
+<br>
+I've been doing most of my actual coding in Python but I want to start doing a bit more in C++. Once I get further into the book, I plan to start coding along with what I'm learning.
+<br>
+<br>
+## :calendar: Day 15/100 - Tuesday, March 03, 2020
+**Today's Progress**
+<br>
+I decided to try something a bit more challenging today. I'm using [GetOldTweets3](https://pypi.org/project/GetOldTweets3/) to scrape Twitter for tweets to build a word cloud of an individual user's most frequently used words. Unfortunately Twitter's API only allows access to tweets from the past seven days, which isn't enough to generate an accurate word cloud, but this module makes it possible to go as far back as Twitter will allow in the web browser. For my first word cloud, I chose Donald Trump, of course. I feel like the results will be pretty interesting. I did't get too far in my code, as most of my time was spent reading about the modules I was going to need and looking at a few articles with tutorials.
+<br>
+<br>
+<img src="https://github.com/Electrila/Electrila.github.io/blob/master/Twitter%20Cloud%20Progress.JPG" />
+<br>
+<br>
+**Thoughts**  :thought_balloon:
+<br>
+I think the hardest part of this project is going to be cleaning up the text in each tweet. There are Python libraries that can do this for you, but I already struggle a bit with using regex and NLP tools, so I really want to try to do this part myself. I read quite a bit on the subject today, but I need to read a bit more about regex in order to refresh my memory.
