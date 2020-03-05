@@ -117,6 +117,9 @@ I absolutely love the fact that there are so many interactive apps and websites 
 I decided to do a little Python work today and started working on a [Pokémon game](https://github.com/Electrila/100-days-of-code/blob/master/Pokemon%20Master/pokemon.py) using classes and OOP. I also made some more progress in my [edX](https://www.edx.org/) courses as well as a Python course with [DataCamp](https://www.datacamp.com/). I'm planning on adding some functionality to the game next.
 <br>
 <br>
+<img src="https://github.com/Electrila/Electrila.github.io/blob/master/Pokemon%20Code.jpg" />
+<br>
+<br>
 **Thoughts**  :thought_balloon:
 <br>
 I really like how versatile Python is. I've worked on so many projects including data analysis, machine learning, NLP, etc. It really is a fun language to work with and is quite a bit easier to understand compared to languages like C++ and Java. I definitely have the most experience with Python and although I'm not sure if I'll use it much in the profession I'm pursuing, I still really enjoy seeing what I can come up with. 
@@ -222,3 +225,17 @@ I decided to try something a bit more challenging today. I'm using [GetOldTweets
 **Thoughts**  :thought_balloon:
 <br>
 I think the hardest part of this project is going to be cleaning up the text in each tweet. There are Python libraries that can do this for you, but I already struggle a bit with using regex and NLP tools, so I really want to try to do this part myself. I read quite a bit on the subject today, but I need to read a bit more about regex in order to refresh my memory.
+<br>
+<br>
+## :calendar: Day 16/100 - Wednesday, March 04, 2020
+**Today's Progress**
+<br>
+I didn't do much coding today, but I finished DataCamp's [Exploratory Data Analysis in Python](https://learn.datacamp.com/courses/exploratory-data-analysis-in-python) course.
+<br>
+<br>
+<img src="https://github.com/Electrila/Electrila.github.io/blob/master/Exploratory%20Data%20Analysis%20in%20Python.JPG" />
+<br>
+<br>
+**Thoughts**  :thought_balloon:
+<br>
+I lost my job today. I won't get into specifics, but it definitely wasn't fair, nor done in a proper manner. I'm hoping this just means my anticipated career change will begin sooner. I'm still going to continue my #100DaysOfCode progress and build whatever small portfolio I can, then begin applying for some entry-level positions. Maybe I'll get lucky.
