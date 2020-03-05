@@ -12,13 +12,13 @@ import GetOldTweets3 as got
 # Dates must be in yyyy-mm-dd format
 username = 'realDonaldTrump'
 date_from = '2019-01-01'
-date_until = '2020-03-03'
+date_to = '2020-03-03'
 count = 100
 
 # Create object for search criteria
 tweet_criteria = got.manager.TweetCriteria().setUsername(username)\
                                             .setSince(date_from)\
-                                            .setUntil(date_until)\
+                                            .setUntil(date_to)\
                                             .setMaxTweets(count)
 
 # Obtain tweets and convert returned text into DataFrame
