@@ -239,3 +239,18 @@ I didn't do much coding today, but I finished DataCamp's [Exploratory Data Analy
 **Thoughts**  :thought_balloon:
 <br>
 I lost my job today. I won't get into specifics, but it definitely wasn't fair, nor done in a proper manner. I'm hoping this just means my anticipated career change will begin sooner. I'm still going to continue my #100DaysOfCode progress and build whatever small portfolio I can, then begin applying for some entry-level positions. Maybe I'll get lucky.
+<br>
+<br>
+## :calendar: Day 17/100 - Thursday, March 05, 2020
+**Today's Progress**
+<br>
+I finished two more of [DataCamp's](https://learn.datacamp.com/) courses, [Cleaning Data in Python](https://learn.datacamp.com/courses/cleaning-data-in-python) and [Introduction to SQL](https://learn.datacamp.com/courses/introduction-to-sql). I'm planning on working more on my [Twitter Cloud](https://github.com/Electrila/100-days-of-code/blob/master/Twitter%20Cloud/twitter_cloud.py) project tomorrow.
+<br>
+<img src="https://github.com/Electrila/Electrila.github.io/blob/master/Cleaning%20Data%20in%20Python.JPG" />
+<br>
+<img src="https://github.com/Electrila/Electrila.github.io/blob/master/Introduction%20to%20SQL.JPG" />
+<br>
+<br>
+**Thoughts**  :thought_balloon:
+<br>
+I learned a ton of ways to clean data in the Cleaning Data in Python course, as well as how to use regex to improve the tidiness. I'm excited to see if I can make these methods work on the text data in my project. I'm not 100% sure how to adapt the rules to remove punctuation, but I'm sure Google can probably help me out there.
