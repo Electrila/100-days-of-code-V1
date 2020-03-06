@@ -44,7 +44,7 @@ mask = np.array(Image.open('Twitter Cloud/trump_silhouette.png'))
 mask[mask == 0] = 255
 
 # Generate WordCloud
-wc = WordCloud(max_words=1000, stopwords=stopwords, mask=mask, contour_color='white', contour_width=3, colormap='bwr').generate(tweets_all)
+wc = WordCloud(max_words=100, stopwords=stopwords, mask=mask, contour_color='white', contour_width=3, colormap='bwr').generate(tweets_all)
 plt.imshow(wc, interpolation='bilinear')
 plt.axis('off')
 plt.show()
