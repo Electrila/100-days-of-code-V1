@@ -9,16 +9,16 @@ import GetOldTweets3 as got
 
 # Parameters used to fetch tweets
 # Dates must be in yyyy-mm-dd format
-username = 'realDonaldTrump'
-date_from = '2019-01-01'
-date_to = '2020-03-05'
-count = 10000
+username = 'quinrex'
+date_from = '2014-01-01'
+date_to = '2020-03-06'
+count = 5000
 
 # Create object for search criteria
 tweet_criteria = got.manager.TweetCriteria().setUsername(username)\
+                                            .setMaxTweets(count)\
                                             .setSince(date_from)\
-                                            .setUntil(date_to)\
-                                            .setMaxTweets(count)
+                                            .setUntil(date_to)
 
 # Obtain tweets and convert returned text into DataFrame
 tweets_df = pd.DataFrame([[tweet.text] for tweet in got.manager.TweetManager.getTweets(tweet_criteria)], columns=['text'])
@@ -35,12 +35,12 @@ tweets_all = ' '.join(tweet for tweet in tweets_df['text'])
 
 # Import pre-loaded list of stopwords and add/remove as necessary
 stopwords = set(STOPWORDS)
-stopwords.remove('very')
-stopwords.add('will')
+#stopwords.remove('very')
+#stopwords.add('will')
 stopwords.add('didn')
 
 # Create array out of image and set all values to 255
-mask = np.array(Image.open('Twitter Cloud/trump_silhouette.png'))
+mask = np.array(Image.open('Twitter Cloud/rat_silhouette.png'))
 mask[mask == 0] = 255
 
 # Generate WordCloud
