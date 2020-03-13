@@ -1,3 +1,5 @@
+# INCOMPLETE - Check out [log-v2.md](https://github.com/Electrila/100-days-of-code/blob/master/log-v2.md) for my current progress!
+
 # #100DaysOfCode Challenge Log  :memo:
 ###### <br>
 ## :calendar: Day 1/100 - Tuesday, February 18, 2020
