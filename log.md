@@ -254,3 +254,17 @@ I finished two more of [DataCamp's](https://learn.datacamp.com/) courses, [Clean
 **Thoughts**  :thought_balloon:
 <br>
 I learned a ton of ways to clean data in the Cleaning Data in Python course, as well as how to use regex to improve the tidiness. I'm excited to see if I can make these methods work on the text data in my project. I'm not 100% sure how to adapt the rules to remove punctuation, but I'm sure Google can probably help me out there.
+<br>
+<br>
+## :calendar: Day 18/100 - Friday, March 06, 2020
+**Today's Progress**
+<br>
+I've been working on a project to create word clouds out of past tweets and was able to finish the code for it, which you can see [here](https://github.com/Electrila/100-days-of-code/blob/master/Twitter%20Cloud/twitter_cloud.py). This is a word cloud generated from all of [President Trump's tweets](https://twitter.com/realDonaldTrump) from 01/01/2019 - 03/06/2020. Pretty interesting!
+<br>
+<br>
+<img src="https://github.com/Electrila/Electrila.github.io/blob/master/trump_wordcloud.png" />
+<br>
+<br>
+**Thoughts**  :thought_balloon:
+<br>
+This project was a lot of fun to work on, and it was really the first project I've completed completely on my own from start to finish (i.e. scraping Twitter for data, coding, and generating images). I want to continue learning more regex methods as well, because I'd really like to get into some NLP projects in the future.
