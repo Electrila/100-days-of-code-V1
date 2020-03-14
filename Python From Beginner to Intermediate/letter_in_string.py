@@ -1,0 +1,6 @@
+print('Find a letter within a string\n')
+string = input('Enter string: ')
+letter = input('Enter letter to search: ')
+print('Letter in string?\n')
+print(letter in string)
+input('Press enter to continue')
