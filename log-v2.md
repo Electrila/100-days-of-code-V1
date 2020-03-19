@@ -40,3 +40,26 @@ I began working on another [Udemy](https://www.udemy.com/) course, [C++ Tutorial
 **Thoughts**  :thought_balloon:
 <br>
 Setting up the compiler and IDE was a little challenging, but [StackOverflow](https://stackoverflow.com/) always has some great resources to help. Looking at a few tutorials, I was able to set everything up and verify it was working correctly. As I progress through my book and course, I'll be able to code along to get some experience.
+<br>
+<br>
+## :calendar: Day 4/100 - Monday, March 16, 2020
+**Today's Progress**
+<br>
+I continued working through [Udemy's](https://www.udemy.com/) course, [C++ Tutorial For Complete Beginners](https://www.udemy.com/course/free-learn-c-tutorial-beginners/). I began learning about OOP and inheritance, which can prove very useful when writing functional programs.
+<br>
+<br>
+**Thoughts**  :thought_balloon:
+<br>
+I studied OOP in Python for a bit, so thankfully I have a basic understanding of the theory behind it. I'm excited to see how I can implement it within C++ programs.
+<br>
+<br>
+## :calendar: Day 5/100 - Tuesday, March 17, 2020
+**Today's Progress**
+<br>
+I continued [Udemy's](https://www.udemy.com/) course, [C++ Tutorial For Complete Beginners](https://www.udemy.com/course/free-learn-c-tutorial-beginners/), and started learning about pointers.
+<br>
+<br>
+**Thoughts**  :thought_balloon:
+<br>
+Okay, so pointers are a bit confusing to me. I only briefly studied them in Python, so I plan to find some [YouTube](https://www.youtube.com/) videos that will help explain them. I really want to finish [freeCodeCamp's](https://www.freecodecamp.org/) Responsive Web Design Certification, but I'm struggling a bit with flexboxes and mobile settings, which is preventing me from finishing my projects. I found a few [Udemy](https://www.udemy.com/) classes that are dedicated to flexboxes, so I'm planning on working through those so I'm able to implement what I learned in my projects, particularly my [Tribute Page](https://github.com/Electrila/100-days-of-code/tree/master/Tribute%20Page).
+<br>
