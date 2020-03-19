@@ -63,3 +63,16 @@ I continued [Udemy's](https://www.udemy.com/) course, [C++ Tutorial For Complete
 <br>
 Okay, so pointers are a bit confusing to me. I only briefly studied them in Python, so I plan to find some [YouTube](https://www.youtube.com/) videos that will help explain them. I really want to finish [freeCodeCamp's](https://www.freecodecamp.org/) Responsive Web Design Certification, but I'm struggling a bit with flexboxes and mobile settings, which is preventing me from finishing my projects. I found a few [Udemy](https://www.udemy.com/) classes that are dedicated to flexboxes, so I'm planning on working through those so I'm able to implement what I learned in my projects, particularly my [Tribute Page](https://github.com/Electrila/100-days-of-code/tree/master/Tribute%20Page).
 <br>
+<br>
+## :calendar: Day 6/100 - Wednesday, March 18, 2020
+**Today's Progress**
+<br>
+I completed [Udemy's](https://www.udemy.com/) course, [Flexbox: The Complete Guide](https://www.udemy.com/course/flexbox-the-complete-guide/), as I still struggle a bit with this concept. The course provided some good knowledge and great resources at the end for continuing education on the topic. I really want to implement this in my [Tribute Page](https://github.com/Electrila/100-days-of-code/tree/master/Tribute%20Page) for the Responsive Web Design Certification on [freeCodeCamp](https://www.freecodecamp.org/). Hopefully now I'll be able to!
+<br>
+<br>
+<img src="https://github.com/Electrila/Electrila.github.io/blob/master/Flexbox%20-%20The%20Complete%20Guide%20Certificate.jpg" />
+<br>
+<br>
+**Thoughts**  :thought_balloon:
+<br>
+I think my biggest challenge with flexboxes (and CSS in general) is just not knowing where to start. I'd like to complete a few more courses on the overall topics within CSS so I can understand how to better implement the to creat a functional and responsive website.
