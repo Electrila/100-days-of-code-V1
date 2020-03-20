@@ -76,3 +76,23 @@ I completed [Udemy's](https://www.udemy.com/) course, [Flexbox: The Complete Gui
 **Thoughts**  :thought_balloon:
 <br>
 I think my biggest challenge with flexboxes (and CSS in general) is just not knowing where to start. I'd like to complete a few more courses on the overall topics within CSS so I can understand how to better implement the to creat a functional and responsive website.
+<br>
+<br>
+## :calendar: Day 7/100 - Thursday, March 19, 2020
+**Today's Progress**
+<br>
+Today I refactored the [HTML for my Tribute Page](https://github.com/Electrila/100-days-of-code/blob/master/Tribute%20Page/index.html), which is pretty plain without any CSS. I did begin some work on the CSS formatting and managed to create a pretty neat page title.
+<br>
+<br>
+<img src="https://github.com/Electrila/Electrila.github.io/blob/master/Dimebag%20Darrell%20Font.JPG" />
+<br>
+<br>
+I also finished [SoloLearn's CSS Fundamentals course](https://www.sololearn.com/Play/CSS) and feel much better about tackling the CSS portion of my Tribute Page.
+<br>
+<br>
+<img src="https://github.com/Electrila/Electrila.github.io/blob/master/SoloLearn%20CSS%20Fundamentals%20Certificate.JPG" />
+<br>
+<br>
+**Thoughts**  :thought_balloon:
+<br>
+As much as I was dreading tackling the CSS portion of my project, I'm finding it to be much of a trial and error process for me. I have been utilizing some great resources from [freeCodeCamp](https://www.freecodecamp.org/), [Codecademy](https://www.codecademy.com/learn), [CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), [MDN Web Docs for CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), a great [Flexbox Guide](https://orenciorodolfo.github.io/flexbox-guide/), as well as [Webflow's Flexbox Game](https://preview.webflow.com/preview/flexbox-game?preview=d1a26b027c4803817087a91c651e321f&m=1?utm_source=nativeblog&utm_content=flexboxgame). I think CSS is just one of those things where you need to dive in headfirst and experiment with different properties in order to learn.
