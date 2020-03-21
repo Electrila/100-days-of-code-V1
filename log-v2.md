@@ -96,3 +96,25 @@ I also finished [SoloLearn's CSS Fundamentals course](https://www.sololearn.com/
 **Thoughts**  :thought_balloon:
 <br>
 As much as I was dreading tackling the CSS portion of my project, I'm finding it to be much of a trial and error process for me. I have been utilizing some great resources from [freeCodeCamp](https://www.freecodecamp.org/), [Codecademy](https://www.codecademy.com/learn), [CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), [MDN Web Docs for CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), a great [Flexbox Guide](https://orenciorodolfo.github.io/flexbox-guide/), as well as [Webflow's Flexbox Game](https://preview.webflow.com/preview/flexbox-game?preview=d1a26b027c4803817087a91c651e321f&m=1?utm_source=nativeblog&utm_content=flexboxgame). I think CSS is just one of those things where you need to dive in headfirst and experiment with different properties in order to learn.
+<br>
+<br>
+## :calendar: Day 8/100 - Friday, March 20, 2020
+**Today's Progress**
+<br>
+I worked a bit more on the CSS for my Tribute Page and started experimenting with a lot of different properties. Unfortunately I was unable to achieve the layout I've envisioned for the page and I think the biggest issue I'm having is the best way to link HTML and CSS elements (tags vs. id vs. classes). I think I'll work on refactoring the [HTML portion](https://github.com/Electrila/100-days-of-code/blob/master/Tribute%20Page/index.html) tomorrow.
+<br>
+<br>
+**Thoughts**  :thought_balloon:
+<br>
+Although writing the HTML portion wasn't terribly challenging, there are other aspects that factor into how difficult the CSS portion becomes. I think If I start with a clean slate by removing all the ids, classes, etc. and just leaving the content, it will be easier to work on the HTML and CSS both at the same time in order to make them work a little better with each other.
+<br>
+<br>
+## :calendar: Day 9/100 - Saturday, March 21, 2020
+**Today's Progress**
+<br>
+I refactored my Tribute Page HTML (again!) and removed ids, classes, etc. in order to start fresh. I also learned a bit more about [HTML Semantic Elements](https://guide.freecodecamp.org/html/html5-semantic-elements/) and implemented them in my code to replace some of the div tags. I think this will greatly help when it comes to working on the CSS portion again.
+<br>
+<br>
+**Thoughts**  :thought_balloon:
+<br>
+I think refactoring is such a great concept to practice, because as you learn more about the programming language you're working with, you're able to discover new ways to achieve your desired outcome, often with more concise code that is easier to maintain. I can definitely see the benefit of learning this skill early!
