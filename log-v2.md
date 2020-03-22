@@ -162,8 +162,6 @@ Not to mention the INSANE amount of code it took to recreate just the HTML...
 :nine::three::one: lines of code! Wild! I definitely have a newfound respect for Web Devs that create sites like this, but I'm thankful for the practice I was able to get.
 <br>
 <br>
-<br>
-<br>
 <img src="https://github.com/Electrila/Electrila.github.io/blob/master/But%20Wait%20There's%20More.jpg" />
 <br>
 <br>
