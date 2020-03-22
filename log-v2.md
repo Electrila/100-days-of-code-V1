@@ -115,6 +115,89 @@ Although writing the HTML portion wasn't terribly challenging, there are other a
 I refactored my Tribute Page HTML (again!) and removed ids, classes, etc. in order to start fresh. I also learned a bit more about [HTML Semantic Elements](https://guide.freecodecamp.org/html/html5-semantic-elements/) and implemented them in my code to replace some of the div tags. I think this will greatly help when it comes to working on the CSS portion again.
 <br>
 <br>
+Today was also the first day I tweeted a piece of coding advice for C++, which is quite exciting because it means I'm beginning to understand concepts and can explain them to others, even if they're simple like the one below. I'm really starting to feel like I'm making progress in my coding journey!
+<br>
+<br>
+<img src="https://github.com/Electrila/Electrila.github.io/blob/master/CPP%20cout%20cin%20Tweet.JPG" />
+<br>
+<br>
 **Thoughts**  :thought_balloon:
 <br>
 I think refactoring is such a great concept to practice, because as you learn more about the programming language you're working with, you're able to discover new ways to achieve your desired outcome, often with more concise code that is easier to maintain. I can definitely see the benefit of learning this skill early!
+<br>
+<br>
+## :calendar: Day 10/100 - Sunday, March 22, 2020
+**Today's Progress**
+<br>
+Yo, I was a busy woman today! Let me break down what I've been working on...
+<br>
+<br>
+After browsing [MDN Web Docs HTML Elements Reference](https://developer.mozilla.org/en-US/docs/Web/HTML), I realized there were so many tags and attributes that I had never even heard of, so what better way to learn than to recreate the site!?
+<br>
+<br>
+<img src="https://github.com/Electrila/Electrila.github.io/blob/master/MDN%20HTML%20Elements%20Reference%20Tweet.JPG" />
+<br>
+<br>
+I wanted to make sure I did things the proper way though due to copyright and trademark laws, so I emailed Mozilla directly requesting permission to recreate their site just for my own knowledge.
+<br>
+<br>
+<img src="https://github.com/Electrila/Electrila.github.io/blob/master/Mozilla%20Trademark%20Request%20Tweet.JPG" />
+<br>
+<br>
+Don't tell Mozilla, but I already coded the HTML part of the page! Shhh! However, I'm not going to be uploading the code to my GitHub repo until I receive confirmation from Mozilla that it's okay to do so. And if they decide it isn't, well, it was good practice and I actually learned a few new HTML tricks that I was able to share with the [Twitter](https://twitter.com/) community!
+<br>
+<br>
+<img src="https://github.com/Electrila/Electrila.github.io/blob/master/Attribute%20Code%20Tweet.JPG" />
+<br>
+<br>
+<img src="https://github.com/Electrila/Electrila.github.io/blob/master/Div%20Render%20Tweet.JPG" />
+<br>
+<br>
+Not to mention the INSANE amount of code it took to recreate just the HTML...
+<br>
+<br>
+<img src="https://github.com/Electrila/Electrila.github.io/blob/master/931%20Lines%20of%20HTML.JPG" />
+<br>
+<br>
+:nine::three::one: lines of code! Wild! I definitely have a newfound respect for Web Devs that create sites like this, but I'm thankful for the practice I was able to get.
+<br>
+<br>
+<br>
+<br>
+<img src="https://github.com/Electrila/Electrila.github.io/blob/master/But%20Wait%20There's%20More.jpg" />
+<br>
+<br>
+<br>
+<br>
+I also coded some [HTML](https://github.com/Electrila/100-days-of-code/blob/master/Dasmoto's%20Arts%20%26%20Crafts/index.html) and [CSS](https://github.com/Electrila/100-days-of-code/blob/master/Dasmoto's%20Arts%20%26%20Crafts/style.css) for a recreation of a fictitious crafts store website, [Dasmoto's Arts & Crafts](https://github.com/Electrila/100-days-of-code/tree/master/Dasmoto's%20Arts%20%26%20Crafts), which was a freeform project that is part of [Codecademy's Web Development Career Path](https://www.codecademy.com/learn/paths/web-development). The only instruction was a design spec that outlined some CSS elements.
+<br>
+<br>
+<img src="https://github.com/Electrila/100-days-of-code/blob/master/Dasmoto's%20Arts%20%26%20Crafts/images/dasmotos-arts_redline.jpg" />
+<br>
+<br>
+After it was all said and done, this is how it turned out:
+<br>
+<br>
+<img src="https://github.com/Electrila/Electrila.github.io/blob/master/Dasmoto's%20Page.JPG" />
+<br>
+<br>
+There are definitely ways to make this site look better, but the goal was to design the website so it matched the design spec, so that's what I did. Might refactor it at a later point...
+<br>
+<br>
+<br>
+<br>
+What. A. Day! And I'm still not done, I'm on a coding kick! I also shared a YouTube playlist I created with my Twitter community for all the other ADHD people like myself that need some relaxing music with no words to listen to while jamming away on some code.
+<br>
+<br>
+<img src="https://github.com/Electrila/Electrila.github.io/blob/master/Coding%20Playlist%20Tweet.JPG" />
+<br>
+<br>
+You can check it out [here](https://www.youtube.com/playlist?list=PLGmmZOXwVSP56FkCtbYkKRQ5S43K5yLor)! :notes:
+<br>
+<br>
+**Thoughts**  :thought_balloon:
+<br>
+I honestly feel like I'm starting to understand coding concepts much better. I networked with some pretty amazing people on Twitter and look forward to seeing what everyone else is working on each day. It's definitely very motivating to see so many other people participating and encouraging each other. Everyone is so helpful and kind and it truly has made this journey an amazing one so far.
+<br>
+<br>
+Now...back to coding! :computer:
