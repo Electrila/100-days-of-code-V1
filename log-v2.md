@@ -182,8 +182,6 @@ After it was all said and done, this is how it turned out:
 There are definitely ways to make this site look better, but the goal was to design the website so it matched the design spec, so that's what I did. Might refactor it at a later point...
 <br>
 <br>
-<br>
-<br>
 What. A. Day! And I'm still not done, I'm on a coding kick! I also shared a YouTube playlist I created with my Twitter community for all the other ADHD people like myself that need some relaxing music with no words to listen to while jamming away on some code.
 <br>
 <br>
@@ -199,3 +197,17 @@ I honestly feel like I'm starting to understand coding concepts much better. I n
 <br>
 <br>
 Now...back to coding! :computer:
+<br>
+<br>
+## :calendar: Day 11/100 - Monday, March 23, 2020
+**Today's Progress**
+<br>
+I received an email back from Mozilla with their creative license information and it turns out I'm able to re-create any of their [MDN Web Docs](https://developer.mozilla.org/en-US/) sites, no problem! I started working on the CSS and worked mainly on the page title / header and the navigation bar. I also uploaded the [HTML code](https://github.com/Electrila/100-days-of-code/blob/master/MDN%20HTML%20Elements%20Site%20Re-Creation/index.html) and the [CSS Code](https://github.com/Electrila/100-days-of-code/blob/master/MDN%20HTML%20Elements%20Site%20Re-Creation/style.css), as well as the [header background image](https://github.com/Electrila/100-days-of-code/blob/master/MDN%20HTML%20Elements%20Site%20Re-Creation/background5.png). So far, this is what it looks like:
+<br>
+<br>
+<img src="https://github.com/Electrila/Electrila.github.io/blob/master/HTML%20Elements%20Reference%20Progress.JPG" />
+<br>
+<br>
+**Thoughts**  :thought_balloon:
+<br>
+I'm not sure how I feel about the design style of the page yet. I sort of struggle with how to style things as far as fonts, colors, etc. I do like the layout of the navigation bar along the side of the page instead of the top. I think I'm going to take a bit of a break from the CSS / design scene for a while and do a little more work on [Udemy's](https://www.udemy.com/) course, [C++ Tutorial For Complete Beginners](https://www.udemy.com/course/free-learn-c-tutorial-beginners/).
