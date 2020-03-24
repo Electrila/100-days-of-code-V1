@@ -1,0 +1,61 @@
+html {
+  scroll-behavior: smooth;
+}
+
+header {
+  display: inline-block;
+  position: relative;
+  width: 100%;
+  height: 250px;
+  top: -8px;
+  align-items: center;
+  background-image: url('images/background5.png');
+  background-position: 85% 25%;
+  border-style: double none double none;
+  border-color: #99e6ff;
+  border-width: 15px;
+}
+
+header h1 {
+  color: #99e6ff;
+  margin-top: 15px;
+  font-family: "Hind Siliguri", sans-serif;
+  font-size: 5em;
+  font-weight: bold;
+  text-align: center;
+}
+
+header p {
+  font-family: Lato, sans-serif;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-align: center;
+  margin-top: -20px;
+  color: #99e6ff;
+}
+
+.sidenav {
+  height: 100%;
+  width: 150px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  margin: auto;
+  background-color: #151019;
+  z-index: 1;
+}
+
+.sidenav a {
+  font-family: Lato, sans-serif;
+  margin-top: 16px;
+  padding: 8px 8px 8px 8px;
+  text-decoration: none;
+  font-size: 18px;
+  color: #99e6ff;
+  display: block;
+  text-align: center;
+}
+
+main {
+  margin-left: 160px;
+}
