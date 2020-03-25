@@ -1,0 +1,12 @@
+1.  Convert .format( ) to f-strings
+2.  Separate print statements from class functions
+3.  Replace variable is_knocked_out with a property
+4.  Convert current __repr__ to __str__
+5.  Rewrite new __repr__
+6.  Minmax for healing/damage
+7.  Fix print statement for how much healing is done if it goes over max HP
+
+
+Topics to Research:
+1.  ESC (Entity, Component, System)
+2.  PyGame
