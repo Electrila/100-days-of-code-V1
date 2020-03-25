@@ -3,15 +3,15 @@ using namespace std;
 
 int main() {
 
-	bool bValue = true;
-	cout << bValue << endl;
+	bool b_value = true;
+	cout << b_value << endl;
 
-	char cValue = 'g';
-	cout << cValue << endl;
+	char c_value = 'g';
+	cout << c_value << endl;
 	cout << "Size of char: " << sizeof(char) << endl;
 
-	wchar_t wValue = 'i';
-	cout << (char) wValue << endl;
+	wchar_t w_value = 'i';
+	cout << (char) w_value << endl;
 	cout << "Size of wchar_t: " << sizeof(wchar_t) << endl;
 
 	return 0;

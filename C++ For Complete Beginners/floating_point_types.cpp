@@ -4,17 +4,17 @@ using namespace std;
 
 int main() {
 
-	float fValue = 123.456789;
+	float f_value = 123.456789;
 	cout << "Size of float: " << sizeof(float) << endl;
-	cout << setprecision(20) << fixed << fValue << endl;
+	cout << setprecision(20) << fixed << f_value << endl;
 
-	double dValue = 123.456789;
-	cout << setprecision(20) << fixed << dValue << endl;
+	double d_value = 123.456789;
+	cout << setprecision(20) << fixed << d_value << endl;
 	cout << "Size of double: " << sizeof(double) << endl;
 
-	long double lValue = 123.456789876543210;
-	cout << setprecision(20) << fixed << lValue << endl;
-	cout << "Size of long double: " << sizeof(lValue) << endl;
+	long double l_value = 123.456789876543210;
+	cout << setprecision(20) << fixed << l_value << endl;
+	cout << "Size of long double: " << sizeof(l_value) << endl;
 
 	return 0;
 }
