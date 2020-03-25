@@ -211,3 +211,14 @@ I received an email back from Mozilla with their creative license information an
 **Thoughts**  :thought_balloon:
 <br>
 I'm not sure how I feel about the design style of the page yet. I sort of struggle with how to style things as far as fonts, colors, etc. I do like the layout of the navigation bar along the side of the page instead of the top. I think I'm going to take a bit of a break from the CSS / design scene for a while and do a little more work on [Udemy's](https://www.udemy.com/) course, [C++ Tutorial For Complete Beginners](https://www.udemy.com/course/free-learn-c-tutorial-beginners/).
+<br>
+<br>
+## :calendar: Day 12/100 - Tuesday, March 24, 2020
+**Today's Progress**
+<br>
+As planned, I continued with [Udemy's](https://www.udemy.com/) course, [C++ Tutorial For Complete Beginners](https://www.udemy.com/course/free-learn-c-tutorial-beginners/) and completed several basic projects based on the concepts I learned. You can check out the code [here](https://github.com/Electrila/100-days-of-code/tree/master/C%2B%2B%20For%20Complete%20Beginners).
+<br>
+<br>
+**Thoughts**  :thought_balloon:
+<br>
+I'm really enjoying C++ so far, although the syntax feels quite clunky. It's been interesting working in the [Eclipse IDE/CDT Development](https://www.eclipse.org/cdt/) program, as well as using the [MinGW Compiler](http://www.mingw.org/). I'm also learning quite a bit about how to run programs from the command prompt, which I'm somewhat unfamiliar with. I found a few courses on that subject that I'm going to be taking in order to learn how to effectively utilize it.
