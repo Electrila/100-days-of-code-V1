@@ -1,0 +1,22 @@
+html {
+  scroll-behavior: smooth;
+}
+
+header {
+  display: block;
+  position: relative;
+  width: 100%;
+  align-items: center;
+  background-image: url('images/dimebag-darrell-guitar-background.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 40%;
+  transform: rotate(-15deg);
+}
+
+header h1 {
+  font-family: "Metal Mania";
+  font-size: 7em;
+  text-align: center;
+  transform: rotate(15deg);
+}
