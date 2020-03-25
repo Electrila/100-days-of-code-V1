@@ -14,7 +14,7 @@ public:
 class Vehicle: public Machine {
 public:
 	Vehicle() { cout << "Vehicle no-argument constructor called." << endl; }
-	Vehicle(int id): Machine(id) { cout << "Vehicle single-argument constructor called." << endl; }
+	Vehicle(int id): Machine(id) { cout << "Vehicle inherited-argument constructor called." << endl; }
 };
 
 class Car: public Vehicle {
@@ -29,3 +29,4 @@ int main() {
 
 	return 0;
 }
+
