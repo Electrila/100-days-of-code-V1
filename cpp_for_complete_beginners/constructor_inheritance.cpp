@@ -1,3 +1,5 @@
+// Constructor Inheritance
+
 #include <iostream>
 using namespace std;
 
