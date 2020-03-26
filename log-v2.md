@@ -222,3 +222,38 @@ As planned, I continued with [Udemy's](https://www.udemy.com/) course, [C++ Tuto
 **Thoughts**  :thought_balloon:
 <br>
 I'm really enjoying C++ so far, although the syntax feels quite clunky. It's been interesting working in the [Eclipse IDE/CDT Development](https://www.eclipse.org/cdt/) program, as well as using the [MinGW Compiler](http://www.mingw.org/). I'm also learning quite a bit about how to run programs from the command prompt, which I'm somewhat unfamiliar with. I found a few courses on that subject that I'm going to be taking in order to learn how to effectively utilize it.
+<br>
+<br>
+## :calendar: Day 13/100 - Wednesday, March 25, 2020
+**Today's Progress**
+<br>
+I made it through the [C++ Tutorial For Complete Beginners](https://www.udemy.com/course/free-learn-c-tutorial-beginners/) course and am ready to complete the final project, which sounds like it's going to be awesome! I learned a ton of useful concepts, but my favorites were:
+<br>
+<br>
+**Constructor Inheritance**
+<br>
+<br>
+<img src="https://github.com/Electrila/Electrila.github.io/blob/master/Constructor%20Inheritance%20CPP.JPG" />
+<br>
+<br>
+**Encapsulation**
+<br>
+<br>
+<img src="https://github.com/Electrila/Electrila.github.io/blob/master/Encapsulation%20CPP.JPG" />
+<br>
+<br>
+**Pointers & Pointer Arithmetic**
+<br>
+<br>
+<img src="https://github.com/Electrila/Electrila.github.io/blob/master/Pointer%20Arithmetic%20CPP.JPG" />
+<br>
+<br>
+**References**
+<br>
+<br>
+<img src="https://github.com/Electrila/Electrila.github.io/blob/master/References%20CPP.JPG" />
+<br>
+<br>
+**Thoughts**
+<br>
+I really enjoyed this course and the instructor was amazing. The explanations were so thorough and I feel like I'm finally starting to grasp the harder concepts. I'm beyond excited to complete the final project!
