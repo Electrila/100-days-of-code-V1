@@ -257,3 +257,22 @@ I made it through the [C++ Tutorial For Complete Beginners](https://www.udemy.co
 **Thoughts**
 <br>
 I really enjoyed this course and the instructor was amazing. The explanations were so thorough and I feel like I'm finally starting to grasp the harder concepts. I'm beyond excited to complete the final project!
+<br>
+<br>
+## :calendar: Day 14/100 - Thursday, March 26, 2020
+**Today's Progress**
+<br>
+I'm almost done with the [C++ Tutorial For Complete Beginners](https://www.udemy.com/course/free-learn-c-tutorial-beginners/) course I've been working on. I was able to complete a final project that utilizes the majority of concepts I learned in the class. After following a ton of tutorials, along with copious amounts of googling, I was able to complete it and I think it came out great for my first C++ project. I used [Simple DirectMedia Layer (SDL) API](https://www.libsdl.org/) and completed everything with [Eclipse IDE/CDT Development](https://www.eclipse.org/cdt/) and the [MinGW Compiler](http://www.mingw.org/). I'm thinking about trying to find a basic installer program to create a distributable .exe just for the fun of it to see if I can do it. I'd also really like to see if there's some way I could increase the dimensions of the window generated and possibly create a live wallpaper using it.
+<br>
+<br>
+You can find all the code for the Starburst project [here](https://github.com/Electrila/100-days-of-code/tree/master/starburst). I also uploaded a video to Vimeo, which you can check out [here](https://vimeo.com/401454017).
+<br>
+<br>
+Here's a screenshot of one of my favorite parts:
+<br>
+<img src="https://github.com/Electrila/Electrila.github.io/blob/master/Starburst%20Screenshot.JPG" />
+<br>
+<br>
+**Thoughts**
+<br>
+Although this project was extremely challenging (and I thought above my skill level at times) the sense of accomplishment after finally finishing it and seeing my first real, working C++ project was very satisfying. There are still a few things I'd like to tweak in the project, along with refactoring some of the code, but overall I'm very happy with the results.
