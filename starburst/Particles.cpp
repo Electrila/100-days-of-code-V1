@@ -20,10 +20,6 @@ void Particles::init() {
 	m_speed *= m_speed;
 }
 
-Particles::~Particles() {
-	// TODO Auto-generated destructor stub
-}
-
 void Particles::update(int interval) {
 	m_direction += interval * 0.00025;
 
