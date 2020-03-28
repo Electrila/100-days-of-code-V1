@@ -270,9 +270,27 @@ You can find all the code for the Starburst project [here](https://github.com/El
 <br>
 Here's a screenshot of one of my favorite parts:
 <br>
+<br>
 <img src="https://github.com/Electrila/Electrila.github.io/blob/master/Starburst%20Screenshot.JPG" />
 <br>
 <br>
-**Thoughts**
+**Thoughts**  :thought_balloon:
 <br>
 Although this project was extremely challenging (and I thought above my skill level at times) the sense of accomplishment after finally finishing it and seeing my first real, working C++ project was very satisfying. There are still a few things I'd like to tweak in the project, along with refactoring some of the code, but overall I'm very happy with the results.
+<br>
+<br>
+## :calendar: Day 15/100 - Friday, March 27, 2020
+**Today's Progress**
+<br>
+I finally finished the [C++ Tutorial For Complete Beginners](https://www.udemy.com/course/free-learn-c-tutorial-beginners/) on [Udemy](https://www.udemy.com/)!
+<br>
+<br>
+<img src="https://github.com/Electrila/Electrila.github.io/blob/master/C%2B%2B%20for%20Complete%20Beginners%20Certificate.jpg" />
+<br>
+<br>
+The instructor, [John Purcell](https://github.com/caveofprogramming), was amazing and highly engaging and I would recommend him to anyone wishing to learn programming languages. He runs a site called [Cave of Programming](https://www.caveofprogramming.com/) and you can also find a lot of his courses on Udemy. I'm planning on going back through all the [code I completed](https://github.com/Electrila/100-days-of-code/tree/master/cpp_for_complete_beginners) in the course and adding comments to really solidify the concepts I learned. I figured if I can understand it enough to comment it, then I must have retained some of the information.
+<br>
+<br>
+**Thoughts**  :thought_balloon:
+<br>
+I'm happy to have completed another Udemy course, especially one in C++, since that's the language I'm most interested in. I purchased the instructor's [Learn Advanced C++ Programming](https://www.udemy.com/course/learn-advanced-c-programming/) course and am excited to begin.
