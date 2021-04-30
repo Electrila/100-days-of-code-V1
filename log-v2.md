@@ -206,9 +206,6 @@ You can find all the code for the Starburst project [here](https://github.com/El
 Here's a screenshot of one of my favorite parts:
 <br>
 <br>
-<img src="https://github.com/Electrila/Electrila.github.io/blob/master/Starburst%20Screenshot.JPG" />
-<br>
-<br>
 **Thoughts**  :thought_balloon:
 <br>
 Although this project was extremely challenging (and I thought above my skill level at times) the sense of accomplishment after finally finishing it and seeing my first real, working C++ project was very satisfying. There are still a few things I'd like to tweak in the project, along with refactoring some of the code, but overall I'm very happy with the results.
